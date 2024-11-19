@@ -1,3 +1,5 @@
+/objWoman/**
+/runs/**
 *.json
 *.jpeg
 *.jpg
