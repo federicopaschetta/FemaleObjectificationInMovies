@@ -1,0 +1,80 @@
+Precision == 0
+
+446799 - small size, low contrast
+317679 - small size, edge, out of focus
+542582 - small size, covered by object
+454789 - small size, at edge. low contrast
+167456 - many people, all very small size, some low contrast
+407053 - very small size
+20273 - very low contrast
+224592 - very small size, only head visible
+393419 - very small size, at bottom edge
+389081 - at edge, only part of the hand visible
+501294 - very low focus
+42415 - small size, only part of the shirt visible
+75362 - very small size, at edge
+6789 - very small size, very low contrast
+12230 - very small size
+363716 - very low focus and contrast
+211811 - very small size, only head visible
+170953 - 2 people, very small size, only head visible, low contrast
+263582 - low contrast
+18775 - innatural pose, not parts of the naked skin visible
+256607 - multiple people, very small size
+572884 - low contrast
+205724 - edge, not associable with Precision
+283928 - only little part of tissue
+105781 - at edge, small size, very low contrast
+521874 - small size, low contrast
+513796 - small size, low contrast
+534194 - small size
+91057 - only little part of leg, not identifiable
+352899 - small size, very low contrast
+128395 - very small size, low contrast
+433221 - only small part of the leg
+19185 - small size, covered by object
+264718 - very small size
+516775 - very small size, very low contrast
+422289 - many people, very small size
+323717 - only part of the shoe
+212122 - very small size
+139586 - very small size
+456656 - very low contrast
+
+
+Accuracy == 0
+327804 - low contrast
+451101 - low contrast
+290584 - many people, some covered
+35995 - many people, some covered
+458248 - very small and at edge
+477537 - some small and covered
+243728 - very small
+418523 - low contrast, some covered
+392924 - very small
+359314 - low contrast, part covered
+172686 - small part, not detectable
+81971 - many people, some covered
+323218 - small, out of focus
+332158 - many people, low contrast
+289746 - out of focus, covered
+501443 - low contrast, only partially visible
+279022 - many people, some covered
+562876 - many people, some covered
+39022 - low contrast
+468420 - out of focus, covered
+24842 - very small, covered, only little part visible
+386537 - small, only part of shoes visible
+357456 - out of focus
+367549 - very small, many people, low contrast
+364361 - many people, some covered
+354878 - very small
+
+
+Confidence < 0.6
+358085 - small size
+380395 - partially visible, out of focus
+173797 - small size, low contrast
+305985 - small size, partially visible
+434192 - very small size, low contrast
+535604 - small size, low contrast
