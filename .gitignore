@@ -4,5 +4,4 @@
 *.jpeg
 *.jpg
 *.pt
-person_anns.csv
-/data/coco_diff/single_anns/
+data/coco_diff/single_anns/person_anns.csv
