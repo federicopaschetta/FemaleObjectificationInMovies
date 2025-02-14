@@ -1,3 +1,5 @@
+/scenes/**
+/Movies/MovieGraph/**
 /objWoman/**
 /runs/**
 *.json
